@@ -4,3 +4,42 @@ body {
 h1 {
   text-align: center;
 }
+h2 {
+  color: rgb(55, 60, 60);
+  text-align: center;
+}
+
+.wrap {
+  display: flex;
+  justify-content: center;
+  gap: 40px;
+}
+
+.btn {
+  font-size: 22px;
+  color: aliceblue;
+  background-color: rgb(168, 28, 59);
+  min-width: 20px;
+  border-radius: 5px;
+  height: 40px;
+  border-color: rgb(252, 252, 7);
+}
+
+.btn2 {
+  font-size: 22px;
+  color: aliceblue;
+  background-color: rgb(246, 10, 61);
+  min-width: 20px;
+  border-radius: 5px;
+  height: 40px;
+  border-color: rgb(252, 252, 7);
+}
+.btn3 {
+  font-size: 22px;
+  color: aliceblue;
+  background-color: rgb(21, 191, 43);
+  min-width: 20px;
+  border-radius: 5px;
+  height: 40px;
+  border-color: rgb(252, 252, 7);
+}
